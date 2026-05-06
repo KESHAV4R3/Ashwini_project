@@ -128,3 +128,4 @@ This app is designed to handle a "Trap Document" containing intentional lies and
 ## License
 
 MIT
+Last Update: Wed May  6 18:28:54 IST 2026
