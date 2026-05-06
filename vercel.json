@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "src/app/api/check/route.js": {
+      "maxDuration": 60
+    }
+  }
+}
